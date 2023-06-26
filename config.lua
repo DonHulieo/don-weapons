@@ -2,7 +2,7 @@ Config = Config or {}
 
 Config.ReloadTime = math.random(4000, 6000)
 
-Config.JamChance = 1 -- 1/1000 chance of jamming per bullet fired
+Config.JamChance = 1000 -- 1/1000 chance of jamming per bullet fired
 
 Config.AttachmentDurability = false -- If you want to disable durability for attachments, set this to false.
 -- If an error occurs with attachments, more than likey you have an attachment or weapon that is not in the list below. -- 

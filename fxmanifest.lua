@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'DonHulieo'
+author 'KRISHNA_YT'
 description 'Weapons logic script, with attachment and weapon durabilty, weapon repairs and gun damage control.'
 version '1.0.8'
 

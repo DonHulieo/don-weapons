@@ -305,7 +305,7 @@ Config.WeaponsDamage = {
     [`WEAPON_MARKSMANPISTOL`] = {model = `WEAPON_MARKSMANPISTOL`, modifier = 0.1, disableCriticalHits = true},
     [`WEAPON_MICROSMG`] = {model = `WEAPON_MICROSMG`, modifier = 0.1, disableCriticalHits = true},
     [`WEAPON_MINISMG`] = {model = `WEAPON_MINISMG`, modifier = 0.1, disableCriticalHits = true},
-    [`WEAPON_SMG`] = {model = `WEAPON_SMG`, modifier = 0.1, disableCriticalHits = true},
+    [`WEAPON_SMG`] = {model = `WEAPON_SMG`, modifier = 0.2, disableCriticalHits = true},
     [`WEAPON_SMG_MK2`] = {model = `WEAPON_SMG_MK2`, modifier = 0.3, disableCriticalHits = true},
     [`WEAPON_ASSAULTSMG`] = {model = `WEAPON_ASSAULTSMG`, modifier = 0.2, disableCriticalHits = true},
     [`WEAPON_MG`] = {model = `WEAPON_MG`, modifier = 0.1, disableCriticalHits = true},

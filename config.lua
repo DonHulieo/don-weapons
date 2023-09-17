@@ -272,7 +272,7 @@ Config.DurabilityMultiplier = {
 Config.WeaponsDamage = {
     [`WEAPON_UNARMED`] = {model = `WEAPON_UNARMED`, modifier = 0.2, disableCriticalHits = true},
     [`WEAPON_NIGHTSTICK`] = {model = `WEAPON_NIGHTSTICK`, modifier = 0.4, disableCriticalHitsHits = true},
-    [`WEAPON_FLASHLIGHT`] = {model = `WEAPON_NIGHTSTICK`, modifier = 0.1, disableCriticalHits = true},
+    [`WEAPON_FLASHLIGHT`] = {model = `WEAPON_FLASHLIGHT`, modifier = 0.1, disableCriticalHits = true},
 
     [`WEAPON_KNIFE`] = {model = `WEAPON_KNIFE`, modifier = 0.1, disableCriticalHits = true},
     [`WEAPON_KNUCKLE`] = {model = `WEAPON_KNUCKLE`, modifier = 0.1, disableCriticalHits = true},
@@ -294,9 +294,9 @@ Config.WeaponsDamage = {
     [`WEAPON_POOLCUE`] = {model = `WEAPON_POOLCUE`, modifier = 0.1, disableCriticalHits = true},
     [`WEAPON_PIPEWRENCH`] = {model = `WEAPON_PIPEWRENCH`, modifier = 0.1, disableCriticalHits = true},
     [`WEAPON_PISTOL`] = {model = `WEAPON_PISTOL`, modifier = 0.1, disableCriticalHits = true},
-    [`WEAPON_PISTOL_MK2`] = {model = `WEAPON_PISTOL_MK2`, modifier = 0.5, disableCriticalHits = true},
+    [`WEAPON_PISTOL_MK2`] = {model = `WEAPON_PISTOL_MK2`, modifier = 0.4, disableCriticalHits = true},
     [`WEAPON_COMBATPISTOL`] = {model = `WEAPON_COMBATPISTOL`, modifier = 0.1, disableCriticalHits = true},
-    [`WEAPON_APPISTOL`] = {model = `WEAPON_APPISTOL`, modifier = 0.1, disableCriticalHits = true},
+    [`WEAPON_APPISTOL`] = {model = `WEAPON_APPISTOL`, modifier = 0.2, disableCriticalHits = true},
     [`WEAPON_PISTOL50`] = {model = `WEAPON_PISTOL50`, modifier = 0.1, disableCriticalHits = true},
     [`WEAPON_SNSPISTOL`] = {model = `WEAPON_SNSPISTOL`, modifier = 0.1, disableCriticalHits = true},
     [`WEAPON_HEAVYPISTOL`] = {model = `WEAPON_HEAVYPISTOL`, modifier = 0.1, disableCriticalHits = true},

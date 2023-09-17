@@ -297,7 +297,7 @@ Config.WeaponsDamage = {
     [`WEAPON_PISTOL_MK2`] = {model = `WEAPON_PISTOL_MK2`, modifier = 0.4, disableCriticalHits = true},
     [`WEAPON_COMBATPISTOL`] = {model = `WEAPON_COMBATPISTOL`, modifier = 0.1, disableCriticalHits = true},
     [`WEAPON_APPISTOL`] = {model = `WEAPON_APPISTOL`, modifier = 0.2, disableCriticalHits = true},
-    [`WEAPON_PISTOL50`] = {model = `WEAPON_PISTOL50`, modifier = 0.1, disableCriticalHits = true},
+    [`WEAPON_PISTOL50`] = {model = `WEAPON_PISTOL50`, modifier = 0.3, disableCriticalHits = true},
     [`WEAPON_SNSPISTOL`] = {model = `WEAPON_SNSPISTOL`, modifier = 0.1, disableCriticalHits = true},
     [`WEAPON_HEAVYPISTOL`] = {model = `WEAPON_HEAVYPISTOL`, modifier = 0.1, disableCriticalHits = true},
     [`WEAPON_VINTAGEPISTOL`] = {model = `WEAPON_VINTAGEPISTOL`, modifier = 0.1, disableCriticalHits = true},
